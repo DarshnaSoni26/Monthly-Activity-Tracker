@@ -1,0 +1,59 @@
+/* Css of Addact */
+.Main{
+    max-width: 50%;
+    border: solid 1px #ccc;
+    height: 200px;
+    margin: 0px auto;
+    margin-top: 2%;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 10px;
+}
+.cntnt{
+    text-align: left;
+    width: 80%;
+    margin: 0px auto;
+    margin-bottom: 10%;
+}
+/* Css of Activity */
+.cross
+{
+    float: right;
+    margin: 1% 1% 0% 0%;
+}
+.actmain
+{
+    max-width: 80%;
+    margin: 0px auto;
+    margin-top: 2%;
+    border: solid 5px rgba(149,165,166,0.9);
+    border-radius: 10px;
+}
+.date-task{
+    text-align: center;
+    text-transform:uppercase;
+    border-right: solid 5px rgba(149,165,166,0.9);;
+    padding-top: 10%;
+}
+.date-task span{
+    font-size: 25px;
+    font-weight: bold;
+}
+.date-task p{
+    font-size: 18px;
+}
+/* Css of Day */
+.butt{
+    margin: 0% 0% 2% 3%; 
+    width: 10%;
+    font-weight: bold;
+}
+.butt:hover
+{
+    color: blue;
+    font-weight: bold;
+    border-radius: 20%;
+    border-color: blue;
+    transition: 0.5s;
+}
