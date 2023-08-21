@@ -1,5 +1,3 @@
-Certainly, if your project doesn't have a license, you can mention that in your README file. Here's an updated README file without a license section:
-
 # Monthly Activity Tracker
 
 The Monthly Activity Tracker is a simple web application that allows users to track their daily activities on a monthly basis. It consists of three main components: `Addact.js`, `Activity.js`, and `Days.js`. Activities are stored in the browser's `localStorage` for persistence across sessions.
@@ -73,6 +71,3 @@ Contributions to the Monthly Activity Tracker are welcome. If you would like to 
 
 6. Your pull request will be reviewed, and once approved, it will be merged.
 
----
-
-Happy tracking! If you have any questions or encounter issues, feel free to [open an issue](https://github.com/your-username/monthly-activity-tracker/issues).
