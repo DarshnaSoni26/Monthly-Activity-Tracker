@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Monthly-Activity-Tracker/static/css/main.d642d23f.css",
+    "main.js": "/Monthly-Activity-Tracker/static/js/main.a1871fba.js",
+    "static/js/787.d54e0d25.chunk.js": "/Monthly-Activity-Tracker/static/js/787.d54e0d25.chunk.js",
+    "index.html": "/Monthly-Activity-Tracker/index.html",
+    "main.d642d23f.css.map": "/Monthly-Activity-Tracker/static/css/main.d642d23f.css.map",
+    "main.a1871fba.js.map": "/Monthly-Activity-Tracker/static/js/main.a1871fba.js.map",
+    "787.d54e0d25.chunk.js.map": "/Monthly-Activity-Tracker/static/js/787.d54e0d25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d642d23f.css",
+    "static/js/main.a1871fba.js"
+  ]
+}
